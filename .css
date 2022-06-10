@@ -1,3 +1,4 @@
 .bloco-imagens{
     display: flex;
+    justify-content: space-around;
 }
