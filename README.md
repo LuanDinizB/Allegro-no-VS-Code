@@ -17,6 +17,8 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 - Após isso, procure o arquivo do MINGW com nome de <b> "x86_64-posix-seh" </b> e clique para download. 
 - Agora é ir em Propriedades do Sistema, em Variáveis de Ambiente e adicionar o caminho que foi instalado o MINGW, na váriavel Path, tanto para as Váriaveis de usuário quando para as Váriaveis de sistema. 
 
+<img src="./img/vAmbiente.jpg" alt="some text" width=60 height=40>
+
 ## Instalar o Allegro
 
 - Para instalar o Allegro correto, de um Crtl + click este <a href="https://github.com/liballeg/allegro5/releases" target="blank" >link</a> e procure a versão 5.2.8 com nome: <b> "allegro-x86_64-w64-mingw32-gcc-12.1.0-posix-seh-dynamic-5.2.8.0.zip </b>. Feito isso, descompacte o arquivo e abra a pasta "allegro" dentro dele.
