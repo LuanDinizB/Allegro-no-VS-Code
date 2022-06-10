@@ -15,7 +15,7 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 
 - Para instalar o MINGW só precisa dar um Crtl + click neste <a href="https://sourceforge.net/projects/mingw-w64/files" target="blank" >link</a> de download para ser direcionado ao SourceForge. 
 - Após isso, procure o arquivo do MINGW com nome de <b> "x86_64-posix-seh" </b> e clique para download. 
-- Agora é ir em Propriedades do Sistema, em Variáveis de Ambiente e adicionar o caminho que foi instalado o MINGW, na váriavel Path, tanto para as Váriaveis de usuário quando para as Váriaveis de sistema. 
+- Agora é ir em Propriedades do Sistema, em Variáveis de Ambiente e adicionar o caminho que foi instalado o MINGW, vai ficar no formato "diretório_instalado/bin" na váriavel Path, tanto para as Váriaveis de usuário quando para as Váriaveis de sistema. 
 <div className="bloco-imagens"> 
     <img src="./img/vSistema.png" width=350 height=350>
     <img src="./img/vAmbiente.jpg" width=170 height=300>
