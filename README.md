@@ -28,7 +28,7 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 - Feito isso, abra também a pasta que foi instalado o MINGW e copie as pastas bin, include e lib do diretório do allegro para dentro da pasta com nome "mingw64". Dentro desse mesmo diretório abra a pasta "x86_64-w64-mingw32" e cole as pastas bin, include e lib de novo. 
 
 <div className="bloco-imagens"> 
-    <img src="./img/vSistema.png" width=500 height=300>
+    <img src="./img/vSistema.png" width=500 height=500>
 </div>
 
 <style> aa</style>
