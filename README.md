@@ -28,9 +28,8 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 - Feito isso, abra também a pasta que foi instalado o MINGW e copie as pastas bin, include e lib do diretório do allegro para dentro da pasta com nome "mingw64". Dentro desse mesmo diretório abra a pasta "x86_64-w64-mingw32" e cole as pastas bin, include e lib de novo. 
 
 <div className="bloco-imagens"> 
-    <img src="./img/pastas.jpg" width=300 height=200>
+    <img src="./img/pastas.jpg" width=600 height=400>
 </div>
 
-<style> aa</style>
-
+- Pronto! Agora já deve estar funcionando normalmente no VS Code!
 
