@@ -1,0 +1,1 @@
+# Allegro-no-VS-Code
