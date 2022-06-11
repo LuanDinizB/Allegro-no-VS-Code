@@ -1,4 +1,8 @@
 
+.bloco-imagens{    
+    
+    display: flex;    
+}
 
 .img1{
     width:350;
