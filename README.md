@@ -45,7 +45,7 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
  
  <h3>Também estou disponibilizando um script que fiz para compilar o arquivo e tentará abrir o jogo automaticamente, o build.sh. Deve ser colocado na pasta raiz do projeto junto ao arquivo que irá ser compilado. </h3>
  
-  <img className="img4" src="./img/scriptExample.jpg">
+  <img className="img4" src="./img/scriptExample.png">
 
 - Agora já deve estar funcionando normalmente no VS Code!
 
