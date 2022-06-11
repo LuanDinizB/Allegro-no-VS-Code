@@ -20,7 +20,7 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 <div className="bloco-imagens"> 
  <p> teste </p>
     <img className="img1" src="./img/vSistema.png">
-    <img className="img2" src="./img/vAmbiente.jpg" width="400" height="462"> 
+    <img className="img2" src="./img/vAmbiente.jpg" width="350" height="462"> 
   <p>Exemplo de como deve ficar no PATH, não se esqueça que deve criar tanto no Path de variável de ambiente quanto no path de variável de sistema:</p> 
     <img className="img4" src="./img/exPath.jpg">
 </div>
