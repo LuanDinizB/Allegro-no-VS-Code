@@ -1,20 +1,13 @@
 
-.bloco-imagens{    
-    
+.bloco-imagens{        
     display: flex;    
 }
 
-.img1{
-    width:350;
-    height:350;
-}
+
 
 .img2 {
-    width:170;
-    height:300
+    width:170px;
+    height:300px;
 }
 
-.img3 {
-    width:600;    
-    height:400;
-}
+
