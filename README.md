@@ -38,12 +38,12 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 
 <div> 
  
-    gcc game.c -o game -lallegro -lallegro_font -lallegro_primitives -lallegro_audio -lallegro_acodec -lallegro_image
-./game
-</div>
-
+    gcc game.c -o game -lallegro -lallegro_font -lallegro_primitives -lallegro_audio -lallegro_acodec -lallegro_image  
+</div> 
 
  Em que "game.c" é o nome do arquivo que está a main, "game" é o arquivo .exe que vai ser criado e os outros são os nomes dos imports.
+ 
+ <h3>Também estou disponibilizando um script que fiz para compilar o arquivo e tentará abrir o jogo automaticamente</h3>
 
 - Agora já deve estar funcionando normalmente no VS Code!
 
