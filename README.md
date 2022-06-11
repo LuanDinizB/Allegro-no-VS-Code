@@ -36,3 +36,5 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 ./game" em que "game.c" é o nome do arquivo que está a main, "game" é o arquivo .exe que vai ser criado e os outros são os nomes dos imports.
 
 - Agora já deve estar funcionando normalmente no VS Code!
+
+<style> </style>
