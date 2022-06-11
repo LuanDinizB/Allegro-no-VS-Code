@@ -18,8 +18,8 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 - Após isso, procure o arquivo do MINGW com nome de <b> "x86_64-posix-seh" </b> e clique para download. 
 - Agora é ir em Propriedades do Sistema, em Variáveis de Ambiente e adicionar o caminho que foi instalado o MINGW, vai ficar no formato "diretório_instalado/bin" na váriavel Path, tanto para as Váriaveis de usuário quando para as Váriaveis de sistema. 
 <div className="bloco-imagens"> 
-    <img className="img1" src="./img/vSistema.png" width=170 height=300>
-    <img className="img2" src="./img/vAmbiente.jpg">
+    <img className="img1" src="./img/vSistema.png">
+    <img className="img2" src="./img/vAmbiente.jpg" width="400" height="400">
 </div>
 
 
