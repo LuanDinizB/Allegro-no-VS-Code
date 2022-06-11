@@ -9,4 +9,4 @@ if [ $? != 0 ]; then
   echo -e "\nHouve um erro de compilação, revise o log!"
   
 fi
-echo -e "\nBuild concluída com sucesso!"
+echo -e "\nCompilação concluída com sucesso!"
