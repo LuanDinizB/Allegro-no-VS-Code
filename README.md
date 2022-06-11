@@ -19,7 +19,7 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 - Agora é ir em Propriedades do Sistema, em Variáveis de Ambiente e adicionar o caminho que foi instalado o MINGW, vai ficar no formato "diretório_instalado/bin" na váriavel Path, tanto para as Váriaveis de usuário quando para as Váriaveis de sistema. 
 <div className="bloco-imagens"> 
     <img className="img1" src="./img/vSistema.png">
-    <img className="img2" src="./img/vAmbiente.jpg" width="450" height="400">
+    <img className="img2" src="./img/vAmbiente.jpg" width="400" height="450">
 </div>
 
 
