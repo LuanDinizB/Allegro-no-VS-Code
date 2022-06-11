@@ -43,7 +43,7 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 
  Em que "game.c" é o nome do arquivo que está a main, "game" é o arquivo .exe que vai ser criado e os outros são os nomes dos imports.
  
- <h3>Também estou disponibilizando um script que fiz para compilar o arquivo e tentará abrir o jogo automaticamente</h3>
+ <h3>Também estou disponibilizando um script que fiz para compilar o arquivo e tentará abrir o jogo automaticamente. O arquivo é o build.sh. Deve ser colocado na pasta raiz do projeto junto ao arquivo que irá ser compilado. </h3>
 
 - Agora já deve estar funcionando normalmente no VS Code!
 
