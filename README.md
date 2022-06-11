@@ -39,7 +39,8 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 
 <div> 
  
-    gcc game.c -o game -lallegro -lallegro_font -lallegro_primitives -lallegro_audio -lallegro_acodec -lallegro_image ./game
+    gcc game.c -o game -lallegro -lallegro_font -lallegro_primitives -lallegro_audio -lallegro_acodec -lallegro_image
+./game
 </div>
 
 
