@@ -20,7 +20,7 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 <div className="bloco-imagens"> 
     <img className="img1" src="./img/vSistema.png">
     <img className="img2" src="./img/vAmbiente.jpg" width="400" height="462"> 
-    <img className="img4" src="./img/exPath.jpg" width="400" height="462">
+    <img className="img4" src="./img/exPath.jpg">
 </div>
 
 
