@@ -37,4 +37,9 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
 
 - Agora já deve estar funcionando normalmente no VS Code!
 
-<style> </style>
+<style> 
+.bloco-imagens{    
+    
+    display: flex;    
+}
+</style>
