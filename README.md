@@ -34,12 +34,12 @@ Foram testadas apenas essas versões dos arquivos, então se funcionar com outra
     <img className="img3" src="./img/pastas.jpg">
 </div>
 
-- Pronto! Agora entre no diretório raiz do jogo e digite o comando:
-
+- Agora entre no diretório raiz do seu jogo. Você precisa do comando gcc para compilar seu jogo, então para facilitar já deixarei copiado aqui em baixo:
 <div> 
  
     gcc game.c -o game -lallegro -lallegro_font -lallegro_primitives -lallegro_audio -lallegro_acodec -lallegro_image  
 </div> 
+
 
  Em que "game.c" é o nome do arquivo que está a main, "game" é o arquivo .exe que vai ser criado e os outros são os nomes dos imports.
  
